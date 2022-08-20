@@ -2,6 +2,8 @@
 
 <p align="center"> Esse projeto é uma aplicação em React que simula uma galeria de fotos, especificamente de upload, database.</p>
 
+![1](https://user-images.githubusercontent.com/60020307/185745356-96a4284d-847e-411e-ae92-6d7076bac483.png)
+
 * [Sobre](#Sobre)
 * [Tecnologias](#Tecnologias)
 
